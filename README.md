@@ -6,6 +6,8 @@ Developed a full-stack web application for a client, involving frontend developm
 
 ## Technology
  React js,Node Express, MySQL, HTML, CSS, and Bootstrap
+ ##  Link of site
+ http://www.footballplayer.nigest11.com/
  ## Image
  ![foot1](https://github.com/user-attachments/assets/ba2cb52f-cf3a-41c6-9244-43d150500d42)![foot2](https://github.com/user-attachments/assets/906ccb5b-8252-4b4a-82fa-606b4c540b22)
 
