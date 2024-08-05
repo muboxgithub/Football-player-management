@@ -1,7 +1,5 @@
-#Football player
-
-Full-Stack Football Player Web Application
-
+## Full-Stack Football Player Web Application
+Manegment of football players abel to create,read,update and delate
 ## Description
 
 Developed a full-stack web application for a client, involving frontend development using React, HTML, CSS, and JavaScript, and backend development using Node Express. Implemented features such as user management, data visualization, and API integration, enabling the client to read, update, add, and delete football players.
